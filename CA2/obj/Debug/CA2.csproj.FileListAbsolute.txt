@@ -1,0 +1,6 @@
+C:\Users\JOSECARLOSACUÑAROJAS\Documents\Visual Studio 2015\Projects\ConsoleAplication1\CA2\CA2\bin\Debug\CA2.exe.config
+C:\Users\JOSECARLOSACUÑAROJAS\Documents\Visual Studio 2015\Projects\ConsoleAplication1\CA2\CA2\bin\Debug\CA2.exe
+C:\Users\JOSECARLOSACUÑAROJAS\Documents\Visual Studio 2015\Projects\ConsoleAplication1\CA2\CA2\bin\Debug\CA2.pdb
+C:\Users\JOSECARLOSACUÑAROJAS\Documents\Visual Studio 2015\Projects\ConsoleAplication1\CA2\CA2\obj\Debug\CA2.csprojResolveAssemblyReference.cache
+C:\Users\JOSECARLOSACUÑAROJAS\Documents\Visual Studio 2015\Projects\ConsoleAplication1\CA2\CA2\obj\Debug\CA2.exe
+C:\Users\JOSECARLOSACUÑAROJAS\Documents\Visual Studio 2015\Projects\ConsoleAplication1\CA2\CA2\obj\Debug\CA2.pdb
